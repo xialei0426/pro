@@ -1,0 +1,96 @@
+<%=stylesheet_link_tag "bootstrap"%>
+<div class="container">
+	<div class="row">
+		<div class="span12">
+			<div class="page-header">
+				<h1>
+					竞价排名服务
+				</h1>
+			</div>
+			<table class="table table-condensed table-striped table-hover">
+				<thead>
+					<tr>
+						<th>
+							编号
+						</th>
+						<th>
+							功能
+						</th>
+						<th>
+							操作
+						</th>
+						<th>
+							状态
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>
+							1
+						</td>
+						<td>
+							<strong>抓取到到国内酒店排名</strong>
+						</td>
+						<td>
+							<%= form_tag("rank/dd_rank", method: "get") do %>
+							  <%= submit_tag("启动程序",class:"btn btn-primary") %>
+							<% end %>
+						</td>
+						<td>
+							<%=@dd_state%>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							1
+						</td>
+						<td>
+							<strong>抓取到到国际酒店排名</strong>
+						</td>
+						<td>
+							<%= form_tag("rank/dd_g_rank", method: "get") do %>
+							  <%= submit_tag("启动程序",class:"btn btn-primary") %>
+							<% end %>
+						</td>
+						<td>
+							<%=@dd_g_state%>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							1
+						</td>
+						<td>
+							<strong>抓取TA国内酒店排名</strong>
+						</td>
+						<td>
+							<%= form_tag("seo/run", method: "get") do %>
+							  <%= submit_tag("启动程序",class:"btn btn-primary") %>
+							<% end %>
+						</td>
+						<td>
+							<%=@ta_state%>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							1
+						</td>
+						<td>
+							<strong>抓取TA国际酒店排名</strong>
+						</td>
+						<td>
+							<%= form_tag("seo/run", method: "get") do %>
+							  <%= submit_tag("启动程序",class:"btn btn-primary") %>
+							<% end %>
+						</td>
+						<td>
+							<%=@ta_g_state%>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>

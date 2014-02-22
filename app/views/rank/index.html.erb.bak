@@ -1,0 +1,43 @@
+<%=stylesheet_link_tag "bootstrap"%>
+<%=stylesheet_link_tag "my"%>
+<div class="container">
+	<div class="row btn-group span3 no-overflow" data-toggle="buttons-checkbox">
+		<button type="button" class="btn btn-primary" onclick="window.location.href='http://192.168.33.199:3000/rank/index?type=1&page=1'">大词</button>
+		<button type="button" class="btn btn-primary" onclick="window.location.href='http://192.168.33.199:3000/rank/index?type=3&page=1'">品牌</button>
+		<button type="button" class="btn btn-primary" onclick="window.location.href='http://192.168.33.199:3000/rank/index?type=2&page=1'">竞品</button>
+		<button type="button" class="btn btn-primary" onclick="window.location.href='http://192.168.33.199:3000/rank/index?type=4&page=1'">酒店品牌词</button>
+	</div>
+	<div class="row digg_pagination span9 offset3">
+		<%= will_paginate @ranks,:params=>{:controller =>"rank",:action=>"page"},:next_label=>"下页",:previous_label=>"上页"%>
+	</div>
+	<div class="row">
+		<TABLE class="gridtable span12">
+			<tr>
+				<th>关键词</th>
+				<th>当前排名</th>
+				<th>当前位置</th>
+				<th>当前出价</th>
+				<th>竞价周期</th>
+				<th>LimitCPC</th>
+				<th>BidStatus</th>
+				<th>scheduleStatus</th>
+				<th>更新时间</th>
+			</tr>
+			<%if !@ranks.empty?%>
+				<% @ranks.each do |rank| %>
+				<tr>
+					<td><%= rank.keyword %></td>
+					<td><%= rank.nowrank %></td>
+					<td><%= rank.nowpos %></td>
+					<td><%= rank.nowprice %></td>
+					<td><%= rank.rankcycle %></td>
+					<td><%= rank.limitcpc %></td>
+					<td><%= rank.bidstatus %></td>
+					<td><%= rank.schedulestatus %></td>
+					<td><%= rank.update_at.strftime("%Y-%m-%d %H:%m:%S") if !rank.update_at.nil?%></td>
+				</tr>
+			<% end %>
+			<%end%>
+		</table>
+	</div>
+</div>

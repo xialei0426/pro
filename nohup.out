@@ -1,0 +1,146 @@
+rake aborted!
+Process (/usr/local/bin/rake - 6604) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+Process (/usr/local/bin/rake - 6604) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+Process (/usr/local/bin/rake - 6604) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+Process (/usr/local/bin/rake - 6604) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+Process (/usr/local/bin/rake - 15495) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+Process (/usr/local/bin/rake - 15495) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+Process (/usr/local/bin/rake - 15461) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+/usr/local/bin/ruby /home/xialei/pro/lib/rank/rank_dd.rb
+#<VerticalDaodaoHotelRank id: 45234, partner_id: "299118", elong_id: "33201011", name: "香港金域假日酒店", rank1: "AirAsiaGo.com 亚航假日", rank2: "假日酒店官网", rank3: "艺龙(eLong.com)", rank4: "Booking.com", rank5: "Agoda.com", rank6: "携程旅行网", rank7: "Hotels.com", rank8: "Asiawebdirect.com", rank9: "艺龙旅行网", rank10: nil, updated_at: "2014-02-19 02:11:35">
+/usr/local/bin/ruby /home/xialei/pro/lib/rank/rank_dd.rb
+#<VerticalDaodaoHotelRank id: 45234, partner_id: "299118", elong_id: "33201011", name: "香港金域假日酒店", rank1: "AirAsiaGo.com 亚航假日", rank2: "假日酒店官网", rank3: "艺龙(eLong.com)", rank4: "Booking.com", rank5: "Agoda.com", rank6: "携程旅行网", rank7: "Hotels.com", rank8: "Asiawebdirect.com", rank9: "艺龙旅行网", rank10: nil, updated_at: "2014-02-19 02:11:35">
+/usr/local/bin/ruby /home/xialei/pro/lib/rank/rank_dd.rb
+#<VerticalDaodaoHotelRank id: 45234, partner_id: "299118", elong_id: "33201011", name: "香港金域假日酒店", rank1: "AirAsiaGo.com 亚航假日", rank2: "假日酒店官网", rank3: "艺龙(eLong.com)", rank4: "Booking.com", rank5: "Agoda.com", rank6: "携程旅行网", rank7: "Hotels.com", rank8: "Asiawebdirect.com", rank9: "艺龙旅行网", rank10: nil, updated_at: "2014-02-19 02:11:35">
+/usr/local/bin/ruby /home/xialei/pro/lib/rank/rank_dd.rb
+#<VerticalDaodaoHotelRank id: 45234, partner_id: "299118", elong_id: "33201011", name: "香港金域假日酒店", rank1: "AirAsiaGo.com 亚航假日", rank2: "假日酒店官网", rank3: "艺龙(eLong.com)", rank4: "Booking.com", rank5: "Agoda.com", rank6: "携程旅行网", rank7: "Hotels.com", rank8: "Asiawebdirect.com", rank9: "艺龙旅行网", rank10: nil, updated_at: "2014-02-19 02:11:35">
+/usr/local/bin/ruby /home/xialei/pro/lib/rank/rank_dd.rb
+#<VerticalDaodaoHotelRank id: 45234, partner_id: "299118", elong_id: "33201011", name: "香港金域假日酒店", rank1: "AirAsiaGo.com 亚航假日", rank2: "假日酒店官网", rank3: "艺龙(eLong.com)", rank4: "Booking.com", rank5: "Agoda.com", rank6: "携程旅行网", rank7: "Hotels.com", rank8: "Asiawebdirect.com", rank9: "艺龙旅行网", rank10: nil, updated_at: "2014-02-19 02:11:35">
+/usr/local/bin/ruby /home/xialei/pro/lib/rank/rank_dd.rb
+#<VerticalDaodaoHotelRank id: 45234, updated_at: "2014-02-19 02:11:35", partner_id: "299118", elong_id: "33201011", name: "香港金域假日酒店", rank1: "AirAsiaGo.com 亚航假日", rank2: "假日酒店官网", rank3: "艺龙(eLong.com)", rank4: "Booking.com", rank5: "Agoda.com", rank6: "携程旅行网", rank7: "Hotels.com", rank8: "Asiawebdirect.com", rank9: "艺龙旅行网", rank10: nil>
+/usr/local/bin/ruby /home/xialei/pro/lib/rank/rank_dd.rb
+rake aborted!
+Process (/usr/local/bin/rake - 23949) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+Process (/usr/local/bin/rake - 23949) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+Process (/usr/local/bin/rake - 23949) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+/usr/local/bin/ruby /home/xialei/pro/lib/rank/rank_dd.rb
+/usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/parser.rb:98:in `strip': invalid byte sequence in UTF-8 (ArgumentError)
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/parser.rb:98:in `parse'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/parser.rb:64:in `call'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/request.rb:294:in `parse_response'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/request.rb:264:in `block in handle_response'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/response.rb:23:in `call'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/response.rb:23:in `parsed_response'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/response.rb:61:in `method_missing'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/espider-0.5.8/lib/espider/front/ta.rb:10:in `initialize'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/espider-0.5.8/lib/espider/front/ta/daodao.rb:7:in `initialize'
+	from /home/xialei/pro/lib/rank/rank_dd.rb:9:in `new'
+	from /home/xialei/pro/lib/rank/rank_dd.rb:9:in `block in <main>'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/activerecord-4.0.2/lib/active_record/relation/batches.rb:26:in `block (2 levels) in find_each'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/activerecord-4.0.2/lib/active_record/relation/batches.rb:26:in `each'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/activerecord-4.0.2/lib/active_record/relation/batches.rb:26:in `block in find_each'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/activerecord-4.0.2/lib/active_record/relation/batches.rb:75:in `find_in_batches'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/activerecord-deprecated_finders-1.0.3/lib/active_record/deprecated_finders/relation.rb:70:in `find_in_batches'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/activerecord-4.0.2/lib/active_record/relation/batches.rb:25:in `find_each'
+	from /home/xialei/pro/lib/rank/rank_dd.rb:8:in `<main>'
+rake aborted!
+Command failed with status (1): [/usr/local/bin/ruby /home/xialei/pro/lib/r...]
+/home/xialei/pro/lib/tasks/rank.rake:6:in `block (2 levels) in <top (required)>'
+Tasks: TOP => rank:dd
+(See full trace by running task with --trace)
+/usr/local/bin/ruby /home/xialei/pro/lib/rank/rank_dd.rb
+rake aborted!
+Process (/usr/local/bin/rake - 9558) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+Process (/usr/local/bin/rake - 9558) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+Process (/usr/local/bin/rake - 9558) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+Process (/usr/local/bin/rake - 13256) is already running.
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `new'
+/home/xialei/pro/lib/tasks/rank_g_dd.rake:5:in `<top (required)>'
+/home/xialei/pro/Rakefile:6:in `<top (required)>'
+(See full trace by running task with --trace)
+/usr/local/bin/ruby /home/xialei/pro/lib/rank/rank_dd.rb
+ruby: No such file or directory -- /home/xialei/pro/lib/rank/rank_g_dd.rb (LoadError)
+ruby: No such file or directory -- /home/xialei/pro/lib/rank/rank_dd_g.rb.rb (LoadError)
+ruby: No such file or directory -- /home/xialei/pro/lib/rank/rank_dd_g.rb.rb (LoadError)
+/usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/parser.rb:98:in `strip': invalid byte sequence in UTF-8 (ArgumentError)
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/parser.rb:98:in `parse'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/parser.rb:64:in `call'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/request.rb:294:in `parse_response'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/request.rb:264:in `block in handle_response'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/response.rb:23:in `call'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/response.rb:23:in `parsed_response'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/httparty-0.12.0/lib/httparty/response.rb:61:in `method_missing'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/espider-0.5.8/lib/espider/front/ta.rb:10:in `initialize'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/espider-0.5.8/lib/espider/front/ta/daodao.rb:7:in `initialize'
+	from /home/xialei/pro/lib/rank/rank_dd.rb:10:in `new'
+	from /home/xialei/pro/lib/rank/rank_dd.rb:10:in `block in <main>'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/activerecord-4.0.2/lib/active_record/relation/batches.rb:26:in `block (2 levels) in find_each'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/activerecord-4.0.2/lib/active_record/relation/batches.rb:26:in `each'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/activerecord-4.0.2/lib/active_record/relation/batches.rb:26:in `block in find_each'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/activerecord-4.0.2/lib/active_record/relation/batches.rb:75:in `find_in_batches'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/activerecord-deprecated_finders-1.0.3/lib/active_record/deprecated_finders/relation.rb:70:in `find_in_batches'
+	from /usr/local/lib/ruby/gems/2.1.0/gems/activerecord-4.0.2/lib/active_record/relation/batches.rb:25:in `find_each'
+	from /home/xialei/pro/lib/rank/rank_dd.rb:9:in `<main>'
